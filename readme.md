@@ -94,7 +94,6 @@ item_count	Number of items per order
 total_price	Total order value
 freight_value	Shipping cost
 product_weight	Weight of items
-product dimensions	Length, width, height
 
 This layer is optimized for analytics and ML modeling.
 
